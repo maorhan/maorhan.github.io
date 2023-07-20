@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Mehmet A. Orhan / Personal Website"
+title                    : "Mehmet A. Orhan"
 title_separator          : "-"
 name                     : &name "Mehmet A. Orhan"
 description              : &description "personal description"
