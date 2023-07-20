@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am an Associate Professor of Management and Organizational Behavior at [EM Normandie Business School](https://en.em-normandie.com/) in France. I am also responsible for leading the graduate program in Digital Strategy and Innovation. Additionally, I have the honor of serving as the Senior Editor of [Career Development International](https://www.emeraldgrouppublishing.com/journal/cdi), contributing to the advancement of career research.
+I am an Associate Professor of Management and Organizational Behavior at [EM Normandie Business School](https://en.em-normandie.com/) in France. I am also responsible for leading the graduate program in Digital Strategy and Innovation. Since January 2023, I have been serving as the Senior Editor of [Career Development International](https://www.emeraldgrouppublishing.com/journal/cdi), contributing to the advancement of career research.
 
 During my doctoral studies, I primarily conducted research with a focus on virtual teams and remote work, exploring the behavioral processes and organizational outcomes linked to digitalization. At the same time, I was interested in unpacking the impact and dark sides of digital media use in broader social settings, from education to dating. However, as my career progressed, I found myself drawn to more profound questions within the field of psychology and social sciences in general. My interests expanded to critical perspectives of the organizational psychology field, where I strive to address issues related to research inequalities, the dominance of the scientific elite, the sustainability of academic careers, and the challenges faced by academics.
 
