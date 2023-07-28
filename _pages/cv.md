@@ -63,7 +63,7 @@ Teaching
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
-Service and leadership
+Service
 ======
 * Senior Editor, [Career Development International](https://www.emeraldgrouppublishing.com/journal/cdi), Jan 2023 – present 
 * Ad-hoc Reviewer for
