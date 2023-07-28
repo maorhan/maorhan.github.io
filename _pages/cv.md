@@ -66,4 +66,21 @@ Teaching
 Service and leadership
 ======
 * Senior Editor, [Career Development International](https://www.emeraldgrouppublishing.com/journal/cdi)
-* Ad-hoc Reviewer for 
+* Ad-hoc Reviewer for
+  * Applied Psychology: An International Review
+  * British Journal of Management
+  * Business Ethics, the Environment & Responsibility
+  * Career Development International
+  * Current Psychology
+  * Cyberpsychology: Journal of Psychosocial Research on Cyberspace
+  * International Journal of Environmental Research and Public Health
+  * International Journal of Hospitality Management
+  * International Journal of Marketing, Communication and New Media
+  * Journal of Business Ethics
+  * Journal of Business Research
+  * Journal of General Management
+  * Journal of Global Mobility; Journal of Knowledge Management
+  * Psychological Reports
+  * Sustainability
+  * Thinking Skills and Creativity
+  * Peer Community in Organization Studies 
