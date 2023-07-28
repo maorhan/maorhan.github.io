@@ -20,13 +20,13 @@ Education
 Work experience
 ======
 * Academic Positions
-  *2021 – present: Associate Professor, EM Normandie Business School, France
-  *2014 – 2022: Affiliated Profesor, Department of Psychology – FF, Charles University in Prague, Czechia
-  *2017 – 2022: Honorary Faculty Member, The University of Liverpool Management School, UK
-  *2018 – 2021: Associate Professor, Paris School of Business, France
-  *2017 – 2019: Assistant Professor, Department of Media Studies – FSV, Charles University in Prague, Czechia
-  *2014 – 2017: Affiliated Researcher, Reflective Practitioners Research Group, Tilburg University, the Netherlands
-  *2012 – 2014: External Doctoral Researcher, Centre for Work and Organizational Psychology, Vrije Universiteit Brussel, Belgium
+  * 2021 – present: Associate Professor, EM Normandie Business School, France
+  * 2014 – 2022: Affiliated Profesor, Department of Psychology – FF, Charles University in Prague, Czechia
+  * 2017 – 2022: Honorary Faculty Member, The University of Liverpool Management School, UK
+  * 2018 – 2021: Associate Professor, Paris School of Business, France
+  * 2017 – 2019: Assistant Professor, Department of Media Studies – FSV, Charles University in Prague, Czechia
+  * 2014 – 2017: Affiliated Researcher, Reflective Practitioners Research Group, Tilburg University, the Netherlands
+  * 2012 – 2014: External Doctoral Researcher, Centre for Work and Organizational Psychology, Vrije Universiteit Brussel, Belgium
 
 * Industrial
   * 2011 – 2012: Financial Planning and Risk Manager – Electronic Arts CEE – Prague, Czechia
