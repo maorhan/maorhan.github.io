@@ -15,4 +15,3 @@ During my doctoral research, I focused primarily on virtual teams and remote wor
 I obtained my Ph.D. in Work and Organizational Psychology from [Tilburg University]( https://tilburguniversity.edu) in the Netherlands. Recently, I finished a graduate degree in Higher Education Policy at the [University of Illinois Urbana-Champaign](https://illinois.edu/). I also hold graduate degrees from [Vrije Universiteit Brussel](https://vub.ac.be), [DePaul University Chicago](https://kellstadt.depaul.edu), and [Northumbria University]( https://northumbria.ac.uk) and an undergraduate degree from [the University of London](https://london.ac.uk).  
 
 
-title: "Publications"
