@@ -13,7 +13,8 @@ Education
 ======
 * Ph.D. in Work & Organizational Psychology, Tilburg University, NL
 * EdM Education Policy, Organization & Leadership, University of Illinois Urbana-Champaign, USA
-* MSc Management – Vrije Universiteit Brussel, Solvay Business School, Belgium
+* MSc Psychology - Northumbria University, UK
+* MSc Management – Vrije Universiteit Brussel, Solvay Business School, BE
 * MBA Marketing & Finance – DePaul University Chicago, Kellstadt Graduate School of Business, USA
 * BSc Economics & Management – University of London, The London School of Economics, UK
 
