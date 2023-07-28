@@ -65,7 +65,7 @@ Teaching
   
 Service and leadership
 ======
-* 2023 – present: Senior Editor, [Career Development International](https://www.emeraldgrouppublishing.com/journal/cdi)
+* Senior Editor, [Career Development International](https://www.emeraldgrouppublishing.com/journal/cdi), Jan 2023 – present 
 * Ad-hoc Reviewer for
   * Applied Psychology: An International Review
   * British Journal of Management
