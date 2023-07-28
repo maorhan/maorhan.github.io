@@ -33,14 +33,17 @@ Work experience
   * 2011 – 2012: Financial Planning and Risk Manager – Electronic Arts CEE – Prague, Czechia
   * 2007 – 2011: Credit Risk Analyst / Process & Reporting Specialist EMEA – ExxonMobil European Downstream Treasury – Prague, Czechia
     
-Skills
+Membership
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* American Psychological Association
+* Association for Psychological Science
+* International Association of Applied Psychology
+* Society for Industrial and Organizational Psychology
+* European Association of Work and Organizational Psychology
+* British Psychological Society
+* Future of Work & Organizational Psychology
+* Social Psychology Network
+* Heterodox Academy
 
 Publications
 ======
@@ -63,3 +66,4 @@ Teaching
 Service and leadership
 ======
 * Senior Editor, [Career Development International](https://www.emeraldgrouppublishing.com/journal/cdi)
+* Ad-hoc Reviewer for 
