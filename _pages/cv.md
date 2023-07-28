@@ -45,24 +45,6 @@ Membership
 * Social Psychology Network
 * Heterodox Academy
 
-Publications
-======
-  <ul>{% for post in site.publications %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Talks
-======
-  <ul>{% for post in site.talks %}
-    {% include archive-single-talk-cv.html %}
-  {% endfor %}</ul>
-  
-Teaching
-======
-  <ul>{% for post in site.teaching %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
 Service
 ======
 * Senior Editor, [Career Development International](https://www.emeraldgrouppublishing.com/journal/cdi), Jan 2023 – present 
