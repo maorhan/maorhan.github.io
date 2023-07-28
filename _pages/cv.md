@@ -18,9 +18,9 @@ Education
 * MBA Marketing & Finance – DePaul University Chicago, Kellstadt Graduate School of Business, USA
 * BSc Economics & Management – University of London, The London School of Economics, UK
 
-Work experience
+Work Experience
 ======
-* Academic Positions
+* Academic Positions:
   * 2021 – present: Associate Professor, EM Normandie Business School, France
   * 2014 – 2022: Affiliated Profesor, Department of Psychology – FF, Charles University in Prague, Czechia
   * 2017 – 2022: Honorary Faculty Member, The University of Liverpool Management School, UK
@@ -29,7 +29,7 @@ Work experience
   * 2014 – 2017: Affiliated Researcher, Reflective Practitioners Research Group, Tilburg University, the Netherlands
   * 2012 – 2014: External Doctoral Researcher, Centre for Work and Organizational Psychology, Vrije Universiteit Brussel, Belgium
 
-* Industrial
+* Industrial Positions:
   * 2011 – 2012: Financial Planning and Risk Manager – Electronic Arts CEE – Prague, Czechia
   * 2007 – 2011: Credit Risk Analyst / Process & Reporting Specialist EMEA – ExxonMobil European Downstream Treasury – Prague, Czechia
     
@@ -65,7 +65,7 @@ Teaching
   
 Service and leadership
 ======
-* Senior Editor, [Career Development International](https://www.emeraldgrouppublishing.com/journal/cdi)
+* 2023 – present: Senior Editor, [Career Development International](https://www.emeraldgrouppublishing.com/journal/cdi)
 * Ad-hoc Reviewer for
   * Applied Psychology: An International Review
   * British Journal of Management
