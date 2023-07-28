@@ -11,12 +11,12 @@ redirect_from:
 
 Education
 ======
-* Ph.D. in Work & Organizational Psychology, Tilburg University, NL
-* EdM Education Policy, Organization & Leadership, University of Illinois Urbana-Champaign, USA
-* MSc Psychology - Northumbria University, UK
-* MSc Management – Vrije Universiteit Brussel, Solvay Business School, BE
-* MBA Marketing & Finance – DePaul University Chicago, Kellstadt Graduate School of Business, USA
-* BSc Economics & Management – University of London, The London School of Economics, UK
+* Doctor of Philosophy in Work & Organizational Psychology, Tilburg University, NL
+* Master of Education in Education Policy, Organization & Leadership, University of Illinois Urbana-Champaign, USA
+* Master of Science in Psychology - Northumbria University, UK
+* Master of Science in Management – Vrije Universiteit Brussel, Solvay Business School, BE
+* Master of Business Administration in Marketing & Finance – DePaul University Chicago, Kellstadt Graduate School of Business, USA
+* Bachelor of Science in Economics & Management – University of London, The London School of Economics, UK
 
 Work Experience
 ======
