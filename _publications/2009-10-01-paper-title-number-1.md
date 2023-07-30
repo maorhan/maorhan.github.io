@@ -12,5 +12,3 @@ My research revolves around the impact of technology in the workplace and non-st
 More recently, I developed another stream of research about research ethics and the state of organizational research and academia.
 
 [Download full list of papers here](http://maorhan.github.io/files/List of Publications Aug23.pdf)
-
-Recommended citation: Orhan, M. A. (2014). "Extending the individual level of virtuality: Implications of task virtuality in virtual and traditional settings" <i>Administrative Sciences</i>. 4(4).
