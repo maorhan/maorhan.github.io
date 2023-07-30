@@ -1,5 +1,5 @@
 ---
-title: "Extending the individual level of virtuality: Implications of task virtuality in virtual and traditional settings"
+title: "Full list of papers can be found here"
 collection: publications
 permalink: /publication/2009-10-01-paper-title-number-1
 excerpt: 'This paper is about the number 1. The number 2 is left for future work.'
