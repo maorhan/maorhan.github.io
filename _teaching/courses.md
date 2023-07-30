@@ -1,7 +1,8 @@
 ---
 title: "Full list of courses delivered can be found here"
 collection: teaching
-permalink: /teaching/2014-spring-teaching-1
+permalink: /teaching/courses
+date: 01/01/2014
 ---
 
 I mainly teach courses in Organizational Behavior, Research Methods, and Critical Studies. 
