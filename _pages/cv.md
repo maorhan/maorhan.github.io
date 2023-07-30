@@ -41,7 +41,7 @@ Membership
 * Society for Industrial and Organizational Psychology
 * European Association of Work and Organizational Psychology
 * British Psychological Society
-* Future of Work & Organizational Psychology
+* [Future of Work & Organizational Psychology](https://fowop.eu)
 * Social Psychology Network
 * Heterodox Academy
 
