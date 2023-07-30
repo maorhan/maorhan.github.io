@@ -10,6 +10,6 @@ citation: 'Orhan, M. A. (2014). &quot;Paper Title Number 1.&quot; <i>Journal 1</
 ---
 This paper is about the number 1. The number 2 is left for future work.
 
-[Download paper here](http://academicpages.github.io/files/paper1.pdf)
+[Download paper here](http://maorhan.github.io/files/paper1.pdf)
 
-Recommended citation: Your Name, You. (2009). "Paper Title Number 1." <i>Journal 1</i>. 1(1).
+Recommended citation: Orhan, M. A. (2014). "Extending the individual level of virtuality: Implications of task virtuality in virtual and traditional settings" <i>Administrative Sciences</i>. 4(4).
