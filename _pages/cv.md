@@ -29,7 +29,7 @@ Work Experience
   * 2014 – 2017: Affiliated Researcher, Reflective Practitioners Research Group, Tilburg University, NL
   * 2012 – 2014: External Doctoral Researcher, Centre for Work and Organizational Psychology, Vrije Universiteit Brussel, BE
 
-* Industrial Positions:
+* Corporate Experience:
   * 2011 – 2012: Financial Planning and Risk Manager – Electronic Arts CEE – Prague, CZ
   * 2007 – 2011: Credit Risk Analyst / Process & Reporting Specialist EMEA – ExxonMobil European Downstream Treasury – Prague, CZ
     
