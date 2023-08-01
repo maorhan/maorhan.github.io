@@ -58,6 +58,7 @@ Service
   * International Journal of Environmental Research and Public Health
   * International Journal of Hospitality Management
   * International Journal of Marketing, Communication and New Media
+  * International Studies of Management and Organization
   * Journal of Business Ethics
   * Journal of Business Research
   * Journal of General Management
