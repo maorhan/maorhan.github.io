@@ -33,7 +33,7 @@ may find the full list of courses I delivered below.
 
 [Download the full list of courses delivered here](https://maorhan.github.io/files/Teaching.pdf)
 
-## [Blog]
+## Blog
 
 You may find the blog posts using [this link](https://maorhan.github.io/talks/). Alternatively, you can subscribe [Substack](https://substack.com/@morhan) to follow my future posts. 
 
