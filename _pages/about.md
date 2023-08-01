@@ -14,4 +14,14 @@ During my doctoral research, I focused primarily on virtual teams and remote wor
 
 I obtained my Ph.D. in Work and Organizational Psychology from [Tilburg University]( https://tilburguniversity.edu) in the Netherlands. Recently, I finished a graduate degree in Higher Education Policy at the [University of Illinois Urbana-Champaign](https://illinois.edu/). I also hold graduate degrees from [Vrije Universiteit Brussel](https://vub.ac.be), [DePaul University Chicago](https://kellstadt.depaul.edu), and [Northumbria University]( https://northumbria.ac.uk) and an undergraduate degree from [the University of London](https://london.ac.uk).  
 
+## Research and Publications
+
+My research revolves around the impact of technology in the workplace and non-standard work practices. To this extent, I have been studying the impact of remote work on organizational outcomes. Additionally, I study human
+behavior, mostly technology-mediated interactions in wider social settings. More recently, I developed another stream of research about scientific inequalities, research ethics, and the state of organizational research and
+academia. The full list of my publications can be found below.  
+
+[Download the full list of papers here](https://maorhan.github.io/files/List%20of%20Publications%20Aug23.pdf)
+
+## Teaching
+
 
