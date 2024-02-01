@@ -27,9 +27,7 @@ academia. The full list of my publications can be found below.
 At EM Normandie Business School, I have developed several courses in the Digital Strategy and Innovation graduate program and obtained the national accreditation from the Conference of _Grandes Écoles_. These courses
 include Digital workplace and managing fluid teams; Recent technological applications and societal challenges; Managing digital risks and cybersecurity; Legal and ethical perspectives; Fundamental of corporate strategy;
 Measuring performance in digital business; Digital innovation and consulting; Digital marketing techniques; Branding in the digital world; Digital distribution and operations management and Value proposition through
-environment, social and governance strategy. Additionally, I served as the course leader of the Organizational Behavior course delivered on four different campuses; Oxford, Dublin, Dubai, and Caen. Starting from the 2023-
-In the 2024 academic year, I will be teaching Critical Issues in Management; Contemporary Topics in Organizations; and Research Methodology at the graduate level and Organizational Behavior at the undergraduate level. You
-may find the full list of courses I delivered below.
+environment, social and governance strategy. Additionally, I served as the course leader of the Organizational Behavior course delivered on four different campuses; Oxford, Dublin, Dubai, and Caen. Most recently, the courses I design and deliver include Critical Issues in Management; Contemporary Topics in Organizations; and Research Methodology at the graduate level and Organizational Behavior at the undergraduate level. You may find the full list of courses I delivered below.
 
 [Download the full list of courses delivered here](https://maorhan.github.io/files/Teaching.pdf)
 
