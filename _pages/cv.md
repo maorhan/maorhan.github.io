@@ -48,7 +48,9 @@ Membership
 
 Service
 ======
-* Senior Editor, [Career Development International](https://www.emeraldgrouppublishing.com/journal/cdi), Jan 2023 – present 
+* Editorial Board Member, [Career Development International](https://www.emeraldgrouppublishing.com/journal/cdi), Jan 2024 – present 
+* Senior Editor, [Europe's Journal of Psychology](https://ejop.psychopen.eu/), Oct 2023 – present
+* Senior Editor, [Career Development International](https://www.emeraldgrouppublishing.com/journal/cdi), Jan 2023 – Jan 2024 
 * Ad-hoc Reviewer for
   * Applied Psychology: An International Review
   * British Journal of Management
