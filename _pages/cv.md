@@ -21,7 +21,8 @@ Education
 Work Experience
 ======
 * Academic Positions:
-  * 2021 – present: Associate Professor of Management and Organizational Behavior, EM Normandie Business School, FR
+  * 2024 – present: Associate Professor of Organizational Behavior, Nyenrode Business University, NL
+  * 2021 – 2024: Associate Professor of Management and Organizational Behavior, EM Normandie Business School, FR
   * 2014 – 2022: Affiliated Profesor, Department of Psychology – FF, Charles University in Prague, CZ
   * 2017 – 2022: Honorary Faculty Member, The University of Liverpool Management School, UK
   * 2018 – 2021: Associate Professor, Paris School of Business, FR
