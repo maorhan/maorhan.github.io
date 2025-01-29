@@ -20,7 +20,7 @@ My research revolves around the impact of technology in the workplace and non-st
 behavior, mostly technology-mediated interactions in wider social settings. More recently, I developed another stream of research about scientific inequalities, research ethics, and the state of organizational research and
 academia. The full list of my publications can be found below.  
 
-[Download the full list of papers here](https://maorhan.github.io/files/List%20of%20Publications%20Nov%202024.pdf)
+[Download the full list of papers here](https://maorhan.github.io/files/List%20of%20Publications%20Jan%202025.pdf)
 
 ## Teaching
 
