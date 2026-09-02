@@ -13,6 +13,7 @@ Education
 ======
 * Doctor of Philosophy in Work & Organizational Psychology, Tilburg University, NL
 * Master of Education in Education Policy, Organization & Leadership, University of Illinois Urbana-Champaign, USA
+* Master of Liberal Arts in Industrial-Organizational Psychology - Harvard University, USA
 * Master of Science in Psychology - Northumbria University, UK
 * Master of Science in Management – Vrije Universiteit Brussel, Solvay Business School, BE
 * Master of Business Administration in Marketing & Finance – DePaul University Chicago, Kellstadt Graduate School of Business, USA
@@ -21,9 +22,10 @@ Education
 Work Experience
 ======
 * Academic Positions:
-  * 2024 – present: Associate Professor of Organizational Behavior, Nyenrode Business University, NL
+  * 2026 – present: Full Professor of Management and Organizational Behavior, EM Normandie Business School, FR
+  * 2024 – 2026: Associate Professor of Organizational Behavior, Nyenrode Business University, NL
   * 2021 – 2024: Associate Professor of Management and Organizational Behavior, EM Normandie Business School, FR
-  * 2014 – 2022: Affiliated Profesor, Department of Psychology – FF, Charles University in Prague, CZ
+  * 2014 – 2022: Affiliated Professor, Department of Psychology – FF, Charles University in Prague, CZ
   * 2017 – 2022: Honorary Faculty Member, The University of Liverpool Management School, UK
   * 2018 – 2021: Associate Professor, Paris School of Business, FR
   * 2017 – 2019: Assistant Professor, Department of Media Studies – FSV, Charles University in Prague, CZ
@@ -58,6 +60,12 @@ Service
   * Career Development International
   * Current Psychology
   * Cyberpsychology: Journal of Psychosocial Research on Cyberspace
+  * Equality, Diversity and Inclusion
+  * Europe’s Journal of Psychology
+  * European Journal of Information Systems
+  * Human Resource Management Journal
+  * Humanities and Social Sciences Communication
+  * Information Technology and People
   * International Journal of Environmental Research and Public Health
   * International Journal of Hospitality Management
   * International Journal of Marketing, Communication and New Media
@@ -65,7 +73,9 @@ Service
   * Journal of Business Ethics
   * Journal of Business Research
   * Journal of General Management
-  * Journal of Global Mobility; Journal of Knowledge Management
+  * Journal of Global Mobility
+  * Journal of Knowledge Management
+  * Journal of Managerial Psychology
   * Psychological Reports
   * Sustainability
   * Thinking Skills and Creativity
