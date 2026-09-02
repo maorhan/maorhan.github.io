@@ -20,7 +20,7 @@ My research focuses on the impact of technology in the workplace and on non-stan
 behavior, mostly technology-mediated interactions in wider social settings. More recently, I developed another stream of research about scientific inequalities, research ethics, and the state of organizational research and
 academia. The full list of my publications can be found below.  
 
-[Download the full list of papers here](https://maorhan.github.io/files/List%20of%20Publications%20022026.pdf)
+You can see the full list of publications and read them [here](https://maorhan.github.io/files/List%20of%20Publications102026.pdf)
 
 ## Teaching
 
@@ -29,7 +29,7 @@ include Digital workplace and managing fluid teams; Recent technological applica
 Measuring performance in digital business; Digital innovation and consulting; Digital marketing techniques; Branding in the digital world; Digital distribution and operations management and Value proposition through
 environment, social and governance strategy. Additionally, I served as the course leader of the Organizational Behavior course delivered on four different campuses; Oxford, Dublin, Dubai, and Caen. Most recently, the courses I design and deliver include Critical Issues in Management; Contemporary Topics in Organizations; and Research Methodology at the graduate level and Organizational Behavior at the undergraduate level. You may find the full list of courses I delivered below.
 
-[See the full list of courses delivered here](https://maorhan.github.io/files/Teaching%20Experience%202026.pdf)
+You can find the full list of courses delivered [here](https://maorhan.github.io/files/Teaching%20Experience%202026.pdf)
 
 ## Blog
 
