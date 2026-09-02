@@ -18,7 +18,7 @@ I obtained my Ph.D. in Work and Organizational Psychology from Tilburg Universit
 
 My research focuses on the impact of technology in the workplace and on non-standard work practices. To this extent, I have been studying the impact of remote work on organizational outcomes. Additionally, I study human
 behavior, mostly technology-mediated interactions in wider social settings. More recently, I developed another stream of research about scientific inequalities, research ethics, and the state of organizational research and
-academia. The full list of my publications can be found below.  
+academia.
 
 You can see the full list of publications and read them [here](https://maorhan.github.io/files/List%20of%20Publications102026.pdf).
 
@@ -27,7 +27,7 @@ You can see the full list of publications and read them [here](https://maorhan.g
 At EM Normandie Business School, I have developed several courses in the Digital Strategy and Innovation graduate program and obtained the national accreditation from the Conference of _Grandes Écoles_. These courses
 include Digital workplace and managing fluid teams; Recent technological applications and societal challenges; Managing digital risks and cybersecurity; Legal and ethical perspectives; Fundamentals of corporate strategy;
 Measuring performance in digital business; Digital innovation and consulting; Digital marketing techniques; Branding in the digital world; Digital distribution and operations management and Value proposition through
-environment, social and governance strategy. Additionally, I served as the course leader of the Organizational Behavior course delivered on four different campuses; Oxford, Dublin, Dubai, and Caen. Most recently, the courses I design and deliver include Critical Issues in Management; Contemporary Topics in Organizations; and Research Methodology at the graduate level and Organizational Behavior at the undergraduate level. You may find the full list of courses I delivered below.
+environment, social and governance strategy. Additionally, I served as the course leader of the Organizational Behavior course delivered on four different campuses; Oxford, Dublin, Dubai, and Caen. Most recently, the courses I design and deliver include Critical Issues in Management; Contemporary Topics in Organizations; and Research Methodology at the graduate level and Organizational Behavior at the undergraduate level.
 
 You can find the full list of courses delivered [here](https://maorhan.github.io/files/Teaching%20Experience%202026.pdf).
 
